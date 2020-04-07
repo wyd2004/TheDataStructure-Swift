@@ -10,3 +10,4 @@
 - BinarySearch
 - BinarySearchTree
 - BitwiseOperation
+- MergeSort
